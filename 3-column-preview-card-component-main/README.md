@@ -25,7 +25,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [solution URL here](hhttps://www.frontendmentor.io/solutions/using-flex-box-JYgxr5Ony_)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/using-flex-box-JYgxr5Ony_)
 - Live Site URL: [live site URL here](https://preview-card-orcin-kappa.vercel.app/)
 
 ## My process
