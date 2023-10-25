@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+:root {
+  /*Primary-color*/
+  --Dark-cyan: hsl(158, 36%, 37%);
+  --Cream: hsl(30, 38%, 92%);
+
+  /* Neutral */
+  --Very-dark-blue: hsl(212, 21%, 14%);
+  --Dark-grayish-blue: hsl(228, 12%, 48%);
+  --White: hsl(0, 0%, 100%);
+}
+body {
+  background-color: var(--Cream);
+  font-family: "Fraunces", serif;
+  font-family: "Montserrat", sans-serif;
+}
+img {
+  width: 100%;
+}
+h1 {
+  font-family: "Fraunces", serif;
+}
+.per {
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+.container {
+  width: 375px;
+}
+.img{
+    
+}
