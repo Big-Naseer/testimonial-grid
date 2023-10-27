@@ -15,8 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -48,7 +46,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This helped me for Css attribute. I really liked this pattern and will use it going forward.
+- [resource 1](https://developer.mozilla.org/en-US/docs/Learn/CSS) - This helped me for Css attribute. I really liked this pattern and will use it going forward.
 
 ## Author
 
