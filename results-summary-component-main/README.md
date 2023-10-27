@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-product-card-wwd3LbsL3d)
-- Live Site URL: [Add live site URL here](https://product-preview-card-sigma.vercel.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/summary-component-ThYv8n9N8K)
+- Live Site URL: [Add live site URL here](https://summary-component-weld.vercel.app/)
 
 ### Built with
 
