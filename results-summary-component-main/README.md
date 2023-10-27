@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%202023-10-27%20091014.jpg)
+![](./design/Screenshot%202023-10-27%20at%2009-58-13%20Frontend%20Mentor%20Results%20summary%20component.png)
 
 ### Links
 
