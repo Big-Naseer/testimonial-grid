@@ -92,3 +92,28 @@ p {
 img {
   border-radius: 59%;
 }
+@media only screen and (max-width: 800px) {
+  .container {
+    grid-template-areas:
+      "sec-1"
+      "sec-2"
+      "sec-3"
+      "sec-4"
+      "sec-5";
+  }
+  .sec-1 {
+    grid-area: sec-1;
+  }
+  .sec-2 {
+    grid-area: sec-2;
+  }
+  .sec-3 {
+    grid-area: sec-5;
+  }
+  .sec-4 {
+    grid-area: sec-3;
+  }
+  .sec-5 {
+    grid-area: sec-4;
+  }
+}
