@@ -81,7 +81,7 @@ body {
 }
 .header {
   display: flex;
-  justify-content: space-evenly;
+  gap: 10px;
 }
 p {
   color: var(--Light-gray);
